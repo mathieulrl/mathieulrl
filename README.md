@@ -7,8 +7,14 @@
 
 | Prize | Project | Date | Where |
 | --- | --- | --- | --- |
-| 🏆 6k$ Prizes @ ETHDenver 2024 | [Provehance]() | Feb 2024 | [ETH Denver 2024](https://devfolio.co/projects/rrrr-0de5) |
-| 🥇 1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/mathisrgt/LugTrack) | Sept 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
+| 🏆 2k$ Prizes @ ETHGlobal Bangkok | [AnonMarket](https://ethglobal.com/showcase/anonmarket-xj2hp) | Nov 2024 | [ETHGlobal Bangkok](https://ethglobal.com/) |
+| 🏆 4th @ HWeb3 Hackathon | [Orchid](https://github.com/Cyrilabs/orchid) | March 2024 | [Sia Partners](https://www.sia-partners.com/fr)
+| 🏆 Participant @ ETHGlobal London | [FideRewards](https://ethglobal.com/showcase/fiderewards-bbq0e) | March 2024 | [ETHGlobal London](https://ethglobal.com/) |
+| 🏆 6k$ Prizes @ ETHDenver 2024 | [Provehance](https://github.com/Provehance) | Feb 2024 | [ETH Denver 2024](https://devfolio.co/projects/rrrr-0de5) |
+| 🏆 Participant @ Chainlink Hackathon | [Denigma](https://github.com/mathieulrl/Denigma) | Dec 2023 | [Chainlink](https://chain.link/) |
+| 🥉 3rd @ KRYPTOSPHERE X 1inch X Near | [InsurancePlace](https://github.com/mathieulrl/InsurancePlace) | Nov 2023 | [KRYPTOSPHERE DeVinci](https://twitter.com/KRYPTOSPHERE) |
+| 🏆 Participant @ HEC Hackathon | [EduTOz](https://github.com/mathieulrl/HackathonHEC) | Nov 2023 | [HEC](https://www.hec.edu/fr) |
+| 🥇 1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/mathieulrl/lugtrack) | Sept 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
 
 <h2> 💻 Last tech used:</h2>
 
